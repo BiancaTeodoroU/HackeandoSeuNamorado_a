@@ -13,8 +13,9 @@
 ### e irá escrever esse comando:
 ### obs: dps do pyinstaller você tem que colocar o nome do seu arquivo, se não, não irá funcionar.
 
-    pyinstaller main.py 
-    
+    pyinstaller main.py
+ 
+### caso ainda tenha dificuldade para instalar eu segui por esse video no youtube: https://www.youtube.com/watch?v=LPcz0HNVx2M   
 ### no meu pc a pasta é diferente pois estou no linux, mas no windows irá aparecer uma pasta chama dist 
 ### dentro da pasta dist vai ter o seu arquivo ( por exemplo no meu caso vai estar main ) e ai é só executar e ser feliz.
 ### obs: no linux o arquivo fica dentro da pasta output 
